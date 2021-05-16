@@ -1,5 +1,5 @@
 
-package Telas;
+package TelasSecretaria;
 
 public class JfMenuSec extends javax.swing.JFrame {
 
